@@ -28,7 +28,7 @@ class Final {
 			"Oof",
 		};
 		
-		String start = "You have entered the battle of the memes. You will have to fight 5 challenging bosses. A death is punishible by restarting the game. Do you choose to continue?";
+		String start = "You have entered the battle of the memes. You will have to fight 5 challenging bosses. A death is punishible by restarting the game. Do you choose to continue? (yes/no)";
 		String startNo = "I TAKE PITY ON YOUR IGNORANCE";
 		String startYes = "Good choice. You will now be transported into the realm of the memes.";
 		System.out.println(start);
