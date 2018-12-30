@@ -56,10 +56,10 @@ class Final {
 		String choice2 = input.nextLine();
 		
 		if (choice2.equalsIgnoreCase("attack")){
-			System.out.println(shiaLeboufAttack + attack[rand.nextInt(5) + 1] + shiaLeboufAttackPtTwo);
+			System.out.println(shiaLeboufAttack + attack[rand.nextInt(4) + 1] + shiaLeboufAttackPtTwo);
 		}
 		else {
-			System.out.println(shiaLeboufDefense + defense[rand.nextInt(5) + 1] + shiaLeboufDefensePtTwo); System.exit(0);
+			System.out.println(shiaLeboufDefense + defense[rand.nextInt(4) + 1] + shiaLeboufDefensePtTwo); System.exit(0);
 		}
 		
 		String guy = "As the light begins to fade, you find yourself crashing through a small diner. As the glass settles around you, a feeling of disturing familiarity surrouds you, like you've been her before.  In the distance you hear a food review being filmed, and peeking out of the shadows, a figure of a man - no, a God - with spikes surrounding his head like a halo.  You decide to try some of the food. In the rubble you find a dish undisturbed. You pick up a rib covered in BBQ sauce. You take a bite and sure enough it is full of flavor. One could even say it took you to FlavorTown®. Fear overcomes you as you realize what you have just done. This isn't a diner, its a combination of a diner, a drive in, and a dive. You turn around and are face to face with the legend, Guy Ferrari. Do you choose to attack or defend?";
@@ -73,10 +73,10 @@ class Final {
 		String choice3 = input.nextLine();
 		
 		if (choice3.equalsIgnoreCase("defend")){
-			System.out.println(guyDefend + defense[rand.nextInt(5) + 1] + guyDefendPtTwo);
+			System.out.println(guyDefend + defense[rand.nextInt(4) + 1] + guyDefendPtTwo);
 		}
 		else {
-			System.out.println(guyAttack + attack[rand.nextInt(5) + 1] + guyAttackPtTwo); System.exit(0);
+			System.out.println(guyAttack + attack[rand.nextInt(4) + 1] + guyAttackPtTwo); System.exit(0);
 		}
 		
 		
