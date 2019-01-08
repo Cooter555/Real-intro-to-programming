@@ -4,7 +4,7 @@ This project is a fun text baised adventure.
 
 ## Code Example
 
-An example of what you are going to be doing would be a quote from the adventure. "You pull out the ancient book of scripture, found in the deepest Hebrew cave. You flip through the pages then read the sacred phrase, No U."
+An example of what you are going to be doing would be a quote from the adventure. "You pull out the ancient book of scripture, found in the deepest Hebrew cave. You flip through the pages then read the sacred phrase, No U." I chose this because it is a perfect example of how I wrote the story.
 
 ## Motivation
 
