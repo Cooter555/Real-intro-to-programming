@@ -1,10 +1,21 @@
+# Final-Project
+
 ## Synopsis
 
 This project is a fun text baised adventure.
 
 ## Code Example
 
-An example of what you are going to be doing would be a quote from the adventure. "You pull out the ancient book of scripture, found in the deepest Hebrew cave. You flip through the pages then read the sacred phrase, No U." I chose this because it is a perfect example of how I wrote the story.
+An example of what you are going to be doing would be a quote from the adventure. I chose this because it is a perfect example of how I wrote the story. 
+```
+You pull out the ancient book of scripture, found in the deepest Hebrew cave. You flip through the pages then read the sacred phrase, No U." I chose this because it is a perfect example of how I wrote the story.
+
+```
+
+## How to Play
+
+All you need to do is type in your choice when prompted. For example, type attack if you want to attack and type defend when you want to defend.
+<img src = "example.png" />
 
 ## Motivation
 
